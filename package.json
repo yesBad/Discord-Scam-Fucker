@@ -1,0 +1,14 @@
+{
+    "name": "fuck",
+    "main": "main.js",
+    "author": "Bad#3260",
+    "version": "0.1",
+    "description": "bad's discord spam fucker",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord.js": "^13.2.0",
+        "request": "^2.88.2"
+    }
+}
