@@ -3,6 +3,6 @@ module.exports = {
         token: ''
     },
     app: {
-	    channelid: ''
+	    webhook: ''
     }
 };
